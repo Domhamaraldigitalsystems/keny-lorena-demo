@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "restaurante": "O Restaurante",
+    "lounge": "Premium Lounge",
+    "cardapio": "Alta Gastronomia",
+    "galeria": "Ambientes",
+    "reservas": "Privilégios & Reservas",
+    "cta": "Reservar Experiência"
+  },
+  "hero": {
+    "badge": "A Excelência Tem Um Nome",
+    "title": "Keny Lorena",
+    "subtitle": "Luxury Dining Experience & Premium Shisha Lounge",
+    "restaurante_cta": "Descobrir a Gastronomia",
+    "lounge_cta": "Explorar o Lounge",
+    "scroll": "A sua jornada começa aqui"
+  },
+  "concept": {
+    "overline": "A Nossa Filosofia",
+    "title": "Onde a Sofisticação\nEncontra a Perfeição",
+    "description": "Desenhado para os paladares mais exigentes e para os amantes do verdadeiro luxo. O Keny Lorena é um santuário de excelência, unindo a alta gastronomia a um lounge exclusivo, criando uma experiência sensorial inigualável.",
+    "restaurante_title": "Alta Culinária",
+    "restaurante_desc": "Uma ode à gastronomia requintada. Ingredientes nobres e uma curadoria de sabores que transcendem o extraordinário.",
+    "lounge_title": "Premium Shisha Lounge",
+    "lounge_desc": "O epítome do lazer sofisticado. Ambientes intimistas, essências globais premium e uma atmosfera desenhada para a elite."
+  },
+  "about": {
+    "overline": "A Essência",
+    "title": "A Visão Por Trás\nda Excelência",
+    "history": "Fundado com a premissa de redefinir o conceito de luxo em Angola, o Keny Lorena nasceu do desejo de criar um refúgio para quem exige o melhor. Cada detalhe, desde o serviço imaculado à curadoria dos ingredientes, reflete o nosso compromisso inabalável com a perfeição.",
+    "philosophy": "Acreditamos que uma refeição deve ser mais do que alimento; deve ser uma celebração dos sentidos. A nossa equipa dedica-se a proporcionar momentos memoráveis, onde a hospitalidade de classe mundial encontra o design contemporâneo.",
+    "founder_title": "Fundadora & Visionária",
+    "quote": "A verdadeira exclusividade não se mede apenas pelo espaço, mas pela forma como cada hóspede se sente ao cruzar as nossas portas. O nosso compromisso é a excelência absoluta."
+  },
+  "restaurante": {
+    "overline": "Uma Experiência Culinária Ímpar",
+    "title": "Sabores que Marcam",
+    "description": "O nosso restaurante é um palco onde a tradição se encontra com a vanguarda. Descubra criações masterizadas por chefs de renome, acompanhadas por uma carta de vinhos que celebra as melhores colheitas do mundo.",
+    "cta_reserva": "Garantir a Sua Mesa",
+    "cta_whatsapp": "Serviço Concierge"
+  },
+  "lounge": {
+    "overline": "Privacidade e Sofisticação",
+    "title": "O Lounge Intocável",
+    "description": "Um santuário noturno reservado para quem aprecia os detalhes. Desfrute de shishas preparadas com maestria, num ambiente luxuoso onde a discrição e o conforto absoluto são a regra de ouro.",
+    "cta_reserva": "Reservar Lounge VIP",
+    "cta_whatsapp": "Contactar Sommelier"
+  },
+  "menu": {
+    "overline": "Obras-Primas",
+    "title": "A Nossa Curadoria",
+    "coming_soon": "Nova Coleção Gastronómica em Breve",
+    "coming_soon_desc": "Os nossos chefs estão a finalizar uma seleção exclusiva de iguarias sazonais. O mais alto padrão de qualidade, desenhado para surpreender os paladares mais sofisticados.",
+    "cta_whatsapp": "Solicitar Acesso Antecipado"
+  },
+  "gallery": {
+    "overline": "Arquitetura e Design",
+    "title": "Um Vislumbre do Paraíso",
+    "filter_all": "Perspetivas",
+    "filter_restaurante": "Restaurante",
+    "filter_lounge": "Lounge",
+    "filter_cocktails": "Cocktails",
+    "filter_pratos": "Pratos",
+    "filter_shisha": "Shisha",
+    "filter_eventos": "Eventos",
+    "filter_detalhes": "Detalhes"
+  },
+  "reserva": {
+    "overline": "Acesso Exclusivo",
+    "title": "Assegure o Seu Lugar",
+    "type_restaurante": "Mesa Premium — Restaurante",
+    "type_lounge": "Espaço VIP — Lounge",
+    "name": "Nome do Convidado",
+    "phone": "Contacto Preferencial",
+    "email": "Email (opcional)",
+    "date": "Data da Experiência",
+    "time": "Hora Pretendida",
+    "guests": "Convidados",
+    "notes": "Pedidos Especiais (Ex: Alergias, Ocasião)",
+    "payment_label": "Garantia de Reserva",
+    "payment_coming": "Reserva com sinal via DHDS Vitrine / Multicaixa Express (Em breve).",
+    "submit": "Solicitar Reserva Oficial",
+    "disclaimer": "A sua reserva será processada pelo nosso concierge via WhatsApp com a máxima prioridade."
+  },
+  "footer": {
+    "tagline": "A Excelência Tem Um Nome.",
+    "contact": "Concierge",
+    "hours": "Horário de Funcionamento",
+    "hours_coming": "Disponível por marcação",
+    "address_coming": "Localização premium revelada em breve",
+    "follow": "Acompanhe a Excelência",
+    "copyright": "© 2025 Keny Lorena Luxury Dining. A preservação do requinte.",
+    "powered": "Arquitetura Digital por DHDS — Dom Hamaral Digital Systems",
+    "whatsapp_cta": "Contactar Concierge Pessoal"
+  },
+  "whatsapp": {
+    "float_label": "Serviço Concierge",
+    "info": "Informações Exclusivas",
+    "eventos": "Eventos Premium"
+  },
+  "seo": {
+    "title": "Keny Lorena — Luxury Dining Experience & Premium Shisha Lounge",
+    "description": "Uma experiência gastronómica de luxo e lazer exclusivo. O padrão internacional de sofisticação."
+  }
+}

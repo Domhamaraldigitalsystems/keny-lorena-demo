@@ -14,7 +14,7 @@ export default function TestimonialsSection() {
           <div className="p-12 md:p-20 border border-[rgba(201,168,76,0.1)] bg-[rgba(14,11,8,0.85)] relative backdrop-blur-md shadow-2xl group transition-all duration-700 hover:border-[rgba(201,168,76,0.2)]">
             <Quote className="absolute top-8 left-1/2 -translate-x-1/2 text-[rgba(201,168,76,0.05)] w-24 h-24 transition-colors duration-700 group-hover:text-[rgba(201,168,76,0.1)]" />
             <p className="font-serif italic text-xl md:text-3xl text-cream/80 leading-relaxed mb-8 relative z-10 font-light">
-              "A aguardar a partilha das experiências dos nossos ilustres convidados."
+              {"\u201C"}A aguardar a partilha das experiências dos nossos ilustres convidados.{"\u201D"}
             </p>
             <div className="flex flex-col items-center gap-4">
               <div className="w-12 h-[1px] bg-gold/50" />

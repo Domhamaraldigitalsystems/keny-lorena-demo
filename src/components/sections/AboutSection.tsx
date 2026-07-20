@@ -68,7 +68,7 @@ export default function AboutSection() {
 
             <blockquote className="mt-10 pl-6 border-l-2 border-[rgba(201,168,76,0.3)]">
               <p className="font-serif italic text-xl md:text-2xl text-cream/90 leading-relaxed">
-                "{t('quote')}"
+                 {"\u201C"}{t("quote")}{"\u201D"}
               </p>
             </blockquote>
 
